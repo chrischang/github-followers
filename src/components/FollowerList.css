@@ -1,0 +1,9 @@
+.follower-container {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.margin-right {
+  margin-right: 2rem;
+}
